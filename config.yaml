@@ -1,0 +1,26 @@
+baseURL: 'https://lukebaker.net/'
+languageCode: 'en-us'
+title: 'lukebaker.net'
+theme: 'PaperMod'
+params:
+  profileMode:
+    enabled: true
+    title: "Luke Baker" # optional default will be site title
+    subtitle: ""
+    imageUrl: "./images/logo.png" # optional
+    imageTitle: "lukebaker.net logo" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    buttons:
+      - name: About
+        url: "/posts/about"
+      - name: Contact
+        url: "/posts/contact"
+      - name: Resume
+        url: "/posts/resume"
+
+#  socialIcons: # optional
+#    - name: "<platform>"
+#      url: "<link>"
+#    - name: "<platform 2>"
+#      url: "<link2>"
