@@ -14,10 +14,10 @@ params:
     buttons:
       - name: About
         url: "/posts/about"
-      - name: Contact
-        url: "/posts/contact"
       - name: Resume
         url: "/posts/resume"
+      - name: Contact
+        url: "/posts/contact"
 
 #  socialIcons: # optional
 #    - name: "<platform>"

@@ -13,11 +13,9 @@
       <link>http://localhost:1313/posts/resume/</link>
       <pubDate>Sun, 21 Jul 2024 21:27:31 -0500</pubDate>
       <guid>http://localhost:1313/posts/resume/</guid>
-      <description>Work Experience ESnet - Computer Systems Engineer
+      <description>Work Experience ESnet — Computer Systems Engineer
 January 2020 - Present
-Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Veterans United Home Loans — Technical Architect
-June 2019 - December 2019
-Aid development teams in all aspects of software development, from project design to implementation. projects by collaborating with product owners. Collaborate with product owners and software development teams to translate business objectives into technical solutions.</description>
+Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, Gitlab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes and cloud native tooling like ArgoCD and Rancher. Veterans United Home Loans — Technical Architect</description>
     </item>
     <item>
       <title>Contact</title>

@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/posts/resume/</guid>
       <description>Work Experience ESnet — Computer Systems Engineer
 January 2020 - Present
-Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, Gitlab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes and cloud native tooling like ArgoCD and Rancher. Veterans United Home Loans — Technical Architect</description>
+Deploy and maintain Unix based systems including Ubuntu, RHEL, and Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, GitLab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes, Docker, and cloud native tooling like ArgoCD and Rancher. Integrate applications and services with OIDC providers including Keycloak.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -31,7 +31,7 @@ Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian 
       <guid>http://localhost:1313/posts/about/</guid>
       <description>Hey there,
 I&amp;rsquo;m Luke Baker - software developer, systems administrator, and a self-described Kubernetes apologetist. I&amp;rsquo;m passionate about technology, open source, and everything in between. I find joy in fixing things and helping people do more of what they love. When I&amp;rsquo;m not working, you&amp;rsquo;ll find me (trying) to keep up with my kids&amp;rsquo; growing list of hobbies and activities.
-I spent several years as a software developer at VUHL, with technical architecture mixed in.</description>
+My career began at the University of Missouri, working initially as a desktop support technician and later a Linux systems administrator.</description>
     </item>
   </channel>
 </rss>

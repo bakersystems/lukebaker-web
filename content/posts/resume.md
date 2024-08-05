@@ -12,9 +12,11 @@ draft: true
 
 *January 2020 - Present*
 
-* Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer.
-* Manage and create software development environments using GitLab, Gitlab CI, GitHub, and artifact repositories.
-* Configure, deploy, and productize container based applications using Kubernetes and cloud native tooling like ArgoCD and Rancher.
+* Deploy and maintain Unix based systems including Ubuntu, RHEL, and Debian using Infrastructure as code tools like Ansible, Terraform, and Packer.
+* Manage and create software development environments using GitLab, GitLab CI, GitHub, and artifact repositories.
+* Configure, deploy, and productize container based applications using Kubernetes, Docker, and cloud native tooling like ArgoCD and Rancher.
+* Integrate applications and services with OIDC providers including Keycloak.
+* Implement and support custom features and applications using Python and Go.
 
 
 **Veterans United Home Loans — Technical Architect**
