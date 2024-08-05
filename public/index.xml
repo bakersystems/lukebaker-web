@@ -13,21 +13,25 @@
       <link>http://localhost:1313/posts/resume/</link>
       <pubDate>Sun, 21 Jul 2024 21:27:31 -0500</pubDate>
       <guid>http://localhost:1313/posts/resume/</guid>
-      <description></description>
+      <description>Work Experience ESnet — Computer Systems Engineer
+January 2020 - Present
+Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, Gitlab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes and cloud native tooling like ArgoCD and Rancher. Veterans United Home Loans — Technical Architect</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/posts/contact/</link>
       <pubDate>Sun, 21 Jul 2024 21:27:27 -0500</pubDate>
       <guid>http://localhost:1313/posts/contact/</guid>
-      <description></description>
+      <description>Want to get in touch? Feel free to send any questions to: contact_at_lukebaker.net</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/posts/about/</link>
       <pubDate>Sun, 21 Jul 2024 18:50:27 -0500</pubDate>
       <guid>http://localhost:1313/posts/about/</guid>
-      <description>hi hey</description>
+      <description>Hey there,
+I&amp;rsquo;m Luke Baker - software developer, systems administrator, and a self-described Kubernetes apologetist. I&amp;rsquo;m passionate about technology, open source, and everything in between. I find joy in fixing things and helping people do more of what they love. When I&amp;rsquo;m not working, you&amp;rsquo;ll find me (trying) to keep up with my kids&amp;rsquo; growing list of hobbies and activities.
+I spent several years as a software developer at VUHL, with technical architecture mixed in.</description>
     </item>
   </channel>
 </rss>
