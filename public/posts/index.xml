@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on lukebaker.net</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://lukebaker.net/posts/</link>
     <description>Recent content in Posts on lukebaker.net</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jul 2024 21:27:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukebaker.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/posts/resume/</link>
+      <link>https://lukebaker.net/posts/resume/</link>
       <pubDate>Sun, 21 Jul 2024 21:27:31 -0500</pubDate>
-      <guid>http://localhost:1313/posts/resume/</guid>
+      <guid>https://lukebaker.net/posts/resume/</guid>
       <description>Work Experience ESnet — Computer Systems Engineer
 January 2020 - Present
-Deploy and maintain Unix based operating systems including Ubuntu, RHEL, Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, Gitlab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes and cloud native tooling like ArgoCD and Rancher. Veterans United Home Loans — Technical Architect</description>
+Deploy and maintain Unix based systems including Ubuntu, RHEL, and Debian using Infrastructure as code tools like Ansible, Terraform, and Packer. Manage and create software development environments using GitLab, GitLab CI, GitHub, and artifact repositories. Configure, deploy, and productize container based applications using Kubernetes, Docker, and cloud native tooling like ArgoCD and Rancher. Integrate applications and services with OIDC providers including Keycloak.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/posts/contact/</link>
+      <link>https://lukebaker.net/posts/contact/</link>
       <pubDate>Sun, 21 Jul 2024 21:27:27 -0500</pubDate>
-      <guid>http://localhost:1313/posts/contact/</guid>
+      <guid>https://lukebaker.net/posts/contact/</guid>
       <description>Want to get in touch? Feel free to send any questions to: contact_at_lukebaker.net</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://lukebaker.net/posts/about/</link>
       <pubDate>Sun, 21 Jul 2024 18:50:27 -0500</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://lukebaker.net/posts/about/</guid>
       <description>Hey there,
 I&amp;rsquo;m Luke Baker - software developer, systems administrator, and a self-described Kubernetes apologetist. I&amp;rsquo;m passionate about technology, open source, and everything in between. I find joy in fixing things and helping people do more of what they love. When I&amp;rsquo;m not working, you&amp;rsquo;ll find me (trying) to keep up with my kids&amp;rsquo; growing list of hobbies and activities.
-I spent several years as a software developer at VUHL, with technical architecture mixed in.</description>
+My career began at the University of Missouri, working initially as a desktop support technician and later a Linux systems administrator.</description>
     </item>
   </channel>
 </rss>

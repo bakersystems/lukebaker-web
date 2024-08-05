@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lukebaker.net/</loc>
     <lastmod>2024-07-21T21:27:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lukebaker.net/posts/</loc>
     <lastmod>2024-07-21T21:27:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/resume/</loc>
+    <loc>https://lukebaker.net/posts/resume/</loc>
     <lastmod>2024-07-21T21:27:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/contact/</loc>
+    <loc>https://lukebaker.net/posts/contact/</loc>
     <lastmod>2024-07-21T21:27:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/about/</loc>
+    <loc>https://lukebaker.net/posts/about/</loc>
     <lastmod>2024-07-21T18:50:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lukebaker.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lukebaker.net/tags/</loc>
   </url>
 </urlset>
