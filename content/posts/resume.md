@@ -7,12 +7,18 @@ draft: false
 ### Work Experience
 ---
 
+**ESnet — Computer Systems Manager**
+
+*April 2026 - Present*
+
+* Manage a team of 4 Computer Systems Engineers responsible for critical production systems including GitLab, Ansible Automation Platform, GitHub Enterprise, Artifact storage, Google Cloud Platform integrations, and Kubernetes environments.
+* Own the team project lifecycle from ideation to implementation, product purchasing and renewals, and employee hiring and onboarding.
+
 **ESnet — Computer Systems Engineer**
 
-*January 2020 - Present*
+*January 2020 - March 2026*
 
-* Led a team of 4 Computer Systems Engineers managing critical production systems including GitLab, Ansible Automation Platform, GitHub Enterprise, Artifact storage, Google Cloud Platform integrations, and Kubernetes environments.
-* Managed team project lifecycle from ideation to implementation, product purchasing and renewals, and employee hiring and onboarding.
+* Led a team of 4 Computer Systems Engineers prior to formally moving into management.
 * Built and scaled Kubernetes based container platform for IPv6 native environments. Implemented GitOps based workflow for deployments using ArgoCD.
 * Implemented centralized authentication infrastructure using Keycloak, integrating over 25 applications.
 * Created and implemented CI/CD pipelines to build, test, and publish container workloads through GitLab CI and deployment with Ansible Automation Platform, enabling engineers to deploy critical workloads including ESnet's network orchestration platform.
@@ -44,7 +50,9 @@ draft: false
 
 *November 2014 - August 2015*
 
-* Used F5 Big-IP devices to provide fault tolerant access to internal and external web applications.  * Contributed to automation efforts using Ansible and PowerShell.  * Moved veteransunited.com web servers from Rackspace to internal hosting, including the configuration of a highly available storage backend using Gluster. 
+* Used F5 Big-IP devices to provide fault tolerant access to internal and external web applications.
+* Contributed to automation efforts using Ansible and PowerShell.
+* Moved veteransunited.com web servers from Rackspace to internal hosting, including the configuration of a highly available storage backend using Gluster.
 * Supported CI/CD efforts using Capistrano and Jenkins.
 
 **University of Missouri — Linux Systems Administrator**
