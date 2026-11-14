@@ -4,19 +4,17 @@ date: 2024-07-21T21:27:31-05:00
 draft: false
 ---
 
-### Work Experience
+## Work Experience
 ---
 
-**ESnet — Computer Systems Manager**
+### ESnet
 
-*April 2026 - Present*
+**Computer Systems Manager** · *April 2026 – Present*
 
 * Manage a team of 4 Computer Systems Engineers responsible for critical production systems including GitLab, Ansible Automation Platform, GitHub Enterprise, Artifact storage, Google Cloud Platform integrations, and Kubernetes environments.
 * Own the team project lifecycle from ideation to implementation, product purchasing and renewals, and employee hiring and onboarding.
 
-**ESnet — Computer Systems Engineer**
-
-*January 2020 - March 2026*
+**Computer Systems Engineer** · *January 2020 – March 2026*
 
 * Led a team of 4 Computer Systems Engineers prior to formally moving into management.
 * Built and scaled Kubernetes based container platform for IPv6 native environments. Implemented GitOps based workflow for deployments using ArgoCD.
@@ -25,10 +23,10 @@ draft: false
 * Deployed and maintained Unix based systems including Ubuntu, RHEL, and Debian using Infrastructure as code tools including Ansible, Terraform, and Packer.
 * Configured, deployed, and productized container based applications using Kubernetes, Docker, and cloud native tooling like ArgoCD and Rancher.
 
+### Veterans United Home Loans
 
-**Veterans United Home Loans — Technical Architect**
+**Technical Architect** · *June 2019 – December 2019*
 
-*June 2019 - December 2019*
 * Aided development teams in all aspects of software development, from project design to implementation.
 * Organized, promoted, and engaged developer teams for new product initiatives and projects.
 * Collaborated with product owners and software development teams to translate business objectives into technical solutions.
@@ -36,9 +34,7 @@ draft: false
 * Created proof of concept applications to prove design and tool viability.
 * Used tools like Camunda and BPMN to capture business processes into executable workflows.
 
-**Veterans United Home Loans — Web Application Developer**
-
-*August 2015 - June 2019*
+**Web Application Developer** · *August 2015 – June 2019*
 
 * Developed backend and customer facing software using the .NET platform, C#, JavaScript, and PHP.
 * Aided product delivery goals via close collaboration with product owners, technical architects, and business leads.
@@ -46,39 +42,34 @@ draft: false
 * Fostered team growth by mentoring new team members.
 * Utilized Agile techniques to encapsulate new and existing work.
 
-**Veterans United Home Loans — Web Administrator**
-
-*November 2014 - August 2015*
+**Web Administrator** · *November 2014 – August 2015*
 
 * Used F5 Big-IP devices to provide fault tolerant access to internal and external web applications.
 * Contributed to automation efforts using Ansible and PowerShell.
 * Moved veteransunited.com web servers from Rackspace to internal hosting, including the configuration of a highly available storage backend using Gluster.
 * Supported CI/CD efforts using Capistrano and Jenkins.
 
-**University of Missouri — Linux Systems Administrator**
+### University of Missouri
 
-*August 2009 - November 2014*
+**Linux Systems Administrator** · *August 2009 – November 2014*
 
 * Reduced bespoke system build procedures to standardized configurations using Puppet and Foreman.
 * Constructed highly available network and storage configurations for mission critical systems using multipath storage devices and network teaming.
 * Automated system and storage usage reports by implementing a Python based auditing service and API.
 * Installed and configured physical hardware across the University of Missouri’s data centers.
 
-**University of Missouri — User Support Analyst**
-
-*December 2006 - August 2009*
+**User Support Analyst** · *December 2006 – August 2009*
 
 * Provided technical support for College of Education faculty, staff, and graduate students.
-* Performed hardware/OS maintenance and repair for Windows, Linux, and OS X
-systems.
-* Vendor warranty repair - replaced laptop LCD displays, motherboards, and hard
-drives.
+* Performed hardware/OS maintenance and repair for Windows, Linux, and OS X systems.
+* Vendor warranty repair - replaced laptop LCD displays, motherboards, and hard drives.
 * Supported faculty, staff, and students via phone, walk-in, and email.
 * Active Directory management of groups and computer objects.
 * Developed documentation for internal and customer use.
 
-### Education
+## Education
 ---
-**University of Missouri - Columbia — Bachelor of Science, Information Technology**
 
-*August 2005 - December 2011*
+### University of Missouri - Columbia
+
+**Bachelor of Science, Information Technology** · *August 2005 – December 2011*
